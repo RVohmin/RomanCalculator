@@ -14,6 +14,7 @@ public class ConvertWithMapToArabic {
         map.put("L", 50);
         map.put("XC",90);
         map.put("C", 100);
+        map.put("CD", 400);
         map.put("D", 500);
         map.put("CM", 900);
         map.put("M", 1000);
